@@ -26,12 +26,8 @@ My primary research interests center around global climate change and vegetation
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Li X*, Huntingford, C., Wang K. Cui J. Xu H., Kan F., Anniwaer N., Yang H., Peñuelas, J., Piao S.* Increased crossing of thermal stress thresholds of vegetation under global warming. Global Change Biology, 30(7), e17406 (2024)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17406)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Li X***, Huntingford, C., Wang K. Cui J. Xu H., Kan F., Anniwaer N., Yang H., Peñuelas, J., Piao S.* Increased crossing of thermal stress thresholds of vegetation under global warming. Global Change Biology, 30(7), e17406 (2024)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17406)
+[**Li X**, Wang K.*, Huntingford, C., Zhu Z., Peñuelas, J., Myneni R., Piao S.* Vegetation greenness in 2023. Nature Reviews Earth & Environment, 5(4), 241–243 (2024)](https://www.nature.com/articles/s43017-024-00543-z)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
