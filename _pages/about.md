@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral fellow in Peking University. My primary research interests center around global climate change and vegetation dynamics. I am particularly focused on understanding vegetation responses to climate extremes, including aspects such as vegetation resistance, resilience, and tree mortality. My research also involves exploring the thresholds of climate extremes that affect vegetation growth and detecting and projecting high-impact climate extremes under climate change. (google scholar badge <a href='https://scholar.google.com/citations?user=QgBEY1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a postdoctoral fellow at Peking University. 
+My primary research interests center around global climate change and vegetation dynamics. I am particularly focused on understanding vegetation responses to climate extremes, including aspects such as vegetation resistance, resilience, and tree mortality. My research also involves exploring the thresholds of climate extremes that affect vegetation growth and detecting and projecting high-impact climate extremes under climate change. (google scholar badge <a href='https://scholar.google.com/citations?user=QgBEY1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
